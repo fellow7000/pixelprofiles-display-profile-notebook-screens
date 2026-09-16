@@ -1,0 +1,41 @@
+{
+  "id": 69,
+  "category": "pc-utility",
+  "slug": "display-profile-notebook",
+  "target": "Windows displays",
+  "appid": null,
+  "summaryRu": "Планировщик конфигураций мониторов с фиксацией разрешения и частоты обновления.",
+  "features": [
+    "Display capability notes",
+    "Layout profile sheets",
+    "Baseline recovery instructions"
+  ],
+  "title": "PixelProfiles — Windows displays — Screens",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "general-platform-context",
+      "sourceId": "windows-performance",
+      "detail": "General Windows performance context, not endorsement or validation of this proposed utility."
+    }
+  ],
+  "brand": "PixelProfiles",
+  "repositoryName": "pixelprofiles-display-profile-notebook-screens",
+  "githubTopics": [
+    "windows-displays",
+    "display-settings",
+    "monitor-layout",
+    "refresh-rate",
+    "windows",
+    "pc-diagnostics",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "screens"
+}
